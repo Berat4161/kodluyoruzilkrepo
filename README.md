@@ -28,4 +28,5 @@ Pull requestler kabul edilir. Büyük degisiklikler icin , lütfen once neyi deg
 ### License
 [MIT]()
 
-   
+***Tesekkürler***   <img src="https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png" alt="Patika.dev" width="150" align="center"/>
+
